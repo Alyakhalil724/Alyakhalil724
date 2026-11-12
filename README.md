@@ -8,15 +8,15 @@ This page is the starting point for my project portfolio. Each project below has
 
 ## Featured Projects
 
-### [Secure Cloud Architecture on AWS](https://github.com/Alyakhalil724/aws-secure-cloud-architecture)
+### Secure Cloud Architecture on AWS
 Designed a secure, scalable three-tier AWS architecture for a fictional company and built a working proof of concept to test it.
 **Tools:** AWS VPC, EC2, Auto Scaling, Application Load Balancer, RDS MySQL, S3, CloudWatch
 
-### [Web Application Security Assessment (OWASP Juice Shop)](https://github.com/Alyakhalil724/juice-shop-web-app-security-assessment)
+### Web Application Security Assessment (OWASP Juice Shop)
 Found, exploited and documented fixes for web vulnerabilities using static and dynamic testing.
 **Tools:** OWASP Juice Shop, Semgrep, OWASP ZAP, Burp Suite
 
-### [Firewall Build and Testing with nftables](https://github.com/Alyakhalil724/nftables-firewall-build-and-testing)
+### Firewall Build and Testing with nftables
 Built a virtual network, configured a firewall and tested its rules from an attacker machine.
 **Tools:** nftables, Kali Linux, Nmap
 
